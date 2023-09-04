@@ -1,12 +1,12 @@
 ---
-title: 'Hello World! My name is'
+title: 'Hello, my name is'
 name: 'Steve Morin'
-subtitle: 'I love exploring new things!'
-buttonText: 'Contact Me'
+subtitle: 'I love building software!'
+buttonText: 'Say Hello'
 ---
 
-I'm an India based software developer with a goal-driven creative mindset and passion for learning and innovating.
+I'm a software developer with a goal-driven creative mindset and passion for learning and innovating.
 
-Currently working as a Software Developer at [Amdocs](https://www.amdocs.com/) and as a Freelance Content Writer for [Pepper Content](https://www.peppercontent.io).
+Currently working as a Full Stack Software Developer with a focus on building innovative tools for end users. I've worked with many of the leading cloud providers including AWS, GCP, and Azure.
 
-Outside work, I occasionally blog on [Medium](https://chandrikadeb7.medium.com/). Off-screen, I sketch my thoughts [here](https://pin.it/4W1Rxtj)!
+Outside work, I love spending time being active in the great outdoors!

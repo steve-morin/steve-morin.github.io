@@ -1,15 +1,13 @@
 ---
-date: '2021-07-07'
-title: 'Freelance Content Writer'
+date: '2008-01-01'
+title: 'Solution/Project Lead'
 company: 'IBM'
-range: 'July 2021 - Present'
-url: 'https://www.peppercontent.io'
+range: '2008 - 2010'
+url: 'https://www.ibm.com'
 ---
 
-- Creating Tech Content as a freelancer for the content giant [Pepper Content](https://www.peppercontent.io).
+- Defined solution approach for several projects based on initial triage of the business need.
 
-- Submitted tech blogs on various popular topics for American Technology Consulting in 2500 words with a rating of 4.5/5.0.
+- Planned, scheduled, monitored activities of the project teams. Managed several global/distributed project teams. Led the multiple concurrent projects through requirements elicitation, design, development, analysis, testing, and deployment phases for Suncor Energy/Petro Canada.
 
-- Submitted a White Paper for Nous Infosystems in 1500 words with a rating of 5.0/5.0.
-
-- View all my submitted articles and blogs [here](https://drive.google.com/drive/folders/1e8rnyb-r07s6Ss8QInvjiLU4rhJAYTCZ?usp=sharing).
+- Collaborated closely with business advisors and project teams to steward initiatives from conception to completion.

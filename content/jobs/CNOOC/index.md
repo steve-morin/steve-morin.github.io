@@ -1,9 +1,9 @@
 ---
-date: '2021-07-07'
-title: 'Freelance Content Writer'
+date: '2014-01-01'
+title: 'Project/Solution Lead'
 company: 'CNOOC'
-range: 'July 2021 - Present'
-url: 'https://www.peppercontent.io'
+range: '2014 - 2015'
+url: 'https://cnoocinternational.com/'
 ---
 
 - Creating Tech Content as a freelancer for the content giant [Pepper Content](https://www.peppercontent.io).

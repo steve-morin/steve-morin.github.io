@@ -1,15 +1,15 @@
 ---
-date: '2021-07-07'
-title: 'Freelance Content Writer'
+date: '2019-01-01'
+title: 'Project Lead'
 company: 'Suncor'
-range: 'July 2021 - Present'
-url: 'https://www.peppercontent.io'
+range: '2019 - 2020'
+url: 'https://www.suncor.com'
 ---
 
-- Creating Tech Content as a freelancer for the content giant [Pepper Content](https://www.peppercontent.io).
+- Led implementation of Advanced Analytics platform based on Microsoft Azure.
 
-- Submitted tech blogs on various popular topics for American Technology Consulting in 2500 words with a rating of 4.5/5.0.
+- Worked with stakeholders to define Operating Model for managing and maintaining elements of the platform.
 
-- Submitted a White Paper for Nous Infosystems in 1500 words with a rating of 5.0/5.0.
+- Led several technical streams for onboarding required data and functionality to Azure. Delivered solution architecture for streaming real-time operational data.
 
-- View all my submitted articles and blogs [here](https://drive.google.com/drive/folders/1e8rnyb-r07s6Ss8QInvjiLU4rhJAYTCZ?usp=sharing).
+- Execution lead for large EH & S platform project (15,000 users). Integrated team lead for Enterprise Integration platform.

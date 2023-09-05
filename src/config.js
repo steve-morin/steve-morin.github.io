@@ -1,9 +1,9 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Developer | Content Freelancer',
+  siteTitle: 'Steve Morin | Software Developer | Data Engineer',
   siteDescription:
-    'Chandrika Deb is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Steve Morin is a Software Developer, who loves learning new technologies.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
+    'Steve Morin, Steve, Morin, steve-morin, software developer, software engineer, data engineering, web developer, javascript developer',
   siteUrl: 'https://steve-morin.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',

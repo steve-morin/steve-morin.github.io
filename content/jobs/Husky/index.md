@@ -1,15 +1,14 @@
 ---
-date: '2021-07-07'
+date: '2001-01-01'
 title: 'Senior Software Developer'
 company: 'Husky'
 range: '2001 - 2008'
-url: 'https://www.peppercontent.io'
+url: 'https://www.cenovus.com/'
 ---
 
-- Creating Tech Content as a freelancer for the content giant [Pepper Content](https://www.peppercontent.io).
-
-- Submitted tech blogs on various popular topics for American Technology Consulting in 2500 words with a rating of 4.5/5.0.
-
-- Submitted a White Paper for Nous Infosystems in 1500 words with a rating of 5.0/5.0.
-
-- View all my submitted articles and blogs [here](https://drive.google.com/drive/folders/1e8rnyb-r07s6Ss8QInvjiLU4rhJAYTCZ?usp=sharing).
+- Executed projects within the Upstream Plant and Field area, working through initiation, planning, execution, monitoring and control, and closure of projects. 
+- Developer and architect and for large mission critical, integrated data warehouse solution. Worked with Field Data Capture, Production Accounting, Retail, HSE (Health Safety Environment), and Plant Systems business areas.
+- Defined solution architecture and business requirements for upstream oil and gas software applications. Defined AS-IS & TO-BE analysis of business processes, conducted interviews & workshops, elaborated business scenarios. 
+- Developed custom interface (C# .Net class libraries) to Osisoft Historian in order to capture well test data for Oil Sands facility.
+- Solution Architect for Enterprise Historian implementation to provide centralized view of Historian data from field locations.
+- Performed gap analysis, data modeling & mapping, technical architecture, report specifications, user interface screen mock-ups.

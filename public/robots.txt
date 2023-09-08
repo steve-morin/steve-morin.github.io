@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://steve-morin.github.io/sitemap-index.xml
+Host: https://steve-morin.github.io
